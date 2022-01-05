@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+}
+
+#banner {
+  margin: auto;
+}
+
+#banner img {
+  height: auto;
+  width: 812px;
+}
+
+#icons {
+  padding: 2.5px 15px;
+}
+
+#mini-layout .img {
+  justify-content: space-evenly;
+  position: center;
+}
+
+#mini-layout .span {
+  justify-content: space-between;
+}
